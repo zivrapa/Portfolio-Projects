@@ -1,0 +1,4 @@
+profiles.csv filter=lfs diff=lfs merge=lfs -text
+C:Userslab_pDocumentsOKCupid-Date-A-Scientist filter=lfs diff=lfs merge=lfs -text
+C:Userslab_pDocumentsOKCupid-Date-A-Scientistprofiles.csv filter=lfs diff=lfs merge=lfs -text
+“.csv” filter=lfs diff=lfs merge=lfs -text
